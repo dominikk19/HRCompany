@@ -1,0 +1,9 @@
+{
+  "databaseChangeLog": [
+    {
+      "include": {
+        "file": "db/changes/001_create_employees.json"
+      }
+    }
+  ]
+}
